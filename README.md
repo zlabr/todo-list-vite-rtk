@@ -5,4 +5,5 @@ Aplicação básica de lista de afazeres utilizando React com Vite + RTK e Tailw
 Rodar:
 
 pnpm install
+
 pnpm dev
